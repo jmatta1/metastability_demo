@@ -1,0 +1,14 @@
+# Specify filepatterns you want git to ignore.
+*.zip
+~*.lck
+fp-info-cache
+.DS_Store
+*/mfg
+*.pyc
+sync_method.pdf
+sync_method.log
+sync_method.aux
+sync_method.out
+*.drawio.bkp
+*synctex.gz
+.history
